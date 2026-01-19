@@ -208,6 +208,116 @@
       "featured": true,
       "dateAdded": "2024-12-17",
       "aspectRatio": "landscape"
+    },
+    {
+      "id": "img-020",
+      "filename": "kids_001.jpg",
+      "title": "Children Playing Outdoors",
+      "description": "Kids having fun in natural light",
+      "section": "KIDS",
+      "tags": ["kids", "outdoor", "candid", "natural-light"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "landscape"
+    },
+    {
+      "id": "img-021",
+      "filename": "kids_002.jpg",
+      "title": "Portrait Session",
+      "description": "Beautiful children's portrait photography",
+      "section": "KIDS",
+      "tags": ["kids", "portrait", "studio"],
+      "featured": false,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "portrait"
+    },
+    {
+      "id": "img-022",
+      "filename": "kids_003.jpg",
+      "title": "Sibling Photography",
+      "description": "Brothers and sisters portrait session",
+      "section": "KIDS",
+      "tags": ["kids", "siblings", "portrait"],
+      "featured": false,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "landscape"
+    },
+    {
+      "id": "img-023",
+      "filename": "maternity_001.jpg",
+      "title": "Golden Hour Maternity",
+      "description": "Beautiful maternity session in golden hour light",
+      "section": "MATERNITY",
+      "tags": ["maternity", "golden-hour", "outdoor"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "portrait"
+    },
+    {
+      "id": "img-024",
+      "filename": "maternity_002.jpg",
+      "title": "Studio Maternity Session",
+      "description": "Elegant maternity portraits in studio",
+      "section": "MATERNITY",
+      "tags": ["maternity", "studio", "portrait"],
+      "featured": false,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "landscape"
+    },
+    {
+      "id": "img-025",
+      "filename": "family_001.jpg",
+      "title": "Family Outdoor Session",
+      "description": "Family portraits in beautiful outdoor setting",
+      "section": "FAMILY",
+      "tags": ["family", "outdoor", "portrait"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "landscape"
+    },
+    {
+      "id": "img-026",
+      "filename": "family_002.jpg",
+      "title": "Family Milestone",
+      "description": "Celebrating family milestones with portraits",
+      "section": "FAMILY",
+      "tags": ["family", "milestone", "portrait"],
+      "featured": false,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "portrait"
+    },
+    {
+      "id": "img-027",
+      "filename": "fine_art_001.jpg",
+      "title": "Creative Portrait",
+      "description": "Fine art creative portrait photography",
+      "section": "FINE ART",
+      "tags": ["fine-art", "creative", "portrait"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "square"
+    },
+    {
+      "id": "img-028",
+      "filename": "mens_portraits_001.jpg",
+      "title": "Professional Men's Portrait",
+      "description": "Professional portrait session for men",
+      "section": "MEN'S PORTRAITS",
+      "tags": ["mens-portraits", "professional", "portrait"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "portrait"
+    },
+    {
+      "id": "img-029",
+      "filename": "small_event_001.jpg",
+      "title": "Birthday Celebration",
+      "description": "Small event photography for birthday party",
+      "section": "SMALL EVENT",
+      "tags": ["small-event", "birthday", "celebration"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "landscape"
     }
   ],
   "sections": {
