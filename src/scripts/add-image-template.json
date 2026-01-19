@@ -1,0 +1,41 @@
+{
+  "template": {
+    "id": "img-XXX",
+    "filename": "your-image-filename.jpg",
+    "title": "Descriptive Title of Your Image",
+    "description": "A brief description of what's in the image",
+    "section": "Choose from: HOME, BABIES, KIDS, MATERNITY, FAMILY, FINE ART, MEN'S PORTRAITS, SMALL EVENT, MENTIONS, BLOG",
+    "tags": ["tag1", "tag2", "tag3"],
+    "featured": false,
+    "dateAdded": "YYYY-MM-DD",
+    "aspectRatio": "square | portrait | landscape",
+    "blogPostId": "(optional - only if this belongs to a blog post)"
+  },
+  "instructions": {
+    "step1": "Save your image to the appropriate /images/[section]/ folder",
+    "step2": "Copy this template",
+    "step3": "Fill in all the required fields",
+    "step4": "Add the entry to /data/images.json in the 'images' array",
+    "step5": "Increment the id number (find the highest img-XXX and add 1)"
+  },
+  "example": {
+    "id": "img-016",
+    "filename": "newborn-emma-peaceful-001.jpg",
+    "title": "Sweet Dreams - Emma's Newborn Session",
+    "description": "Peaceful newborn portrait with soft natural light in neutral tones",
+    "section": "BABIES",
+    "tags": ["newborn", "natural-light", "studio", "portrait"],
+    "featured": true,
+    "dateAdded": "2024-12-15",
+    "aspectRatio": "portrait"
+  },
+  "available_tags": [
+    "newborn", "baby", "kids", "family", "maternity",
+    "portrait", "outdoor", "studio", "natural-light", "golden-hour",
+    "candid", "fine-art", "creative", "composite",
+    "professional", "milestone", "siblings",
+    "event", "birthday", "celebration", "party",
+    "award", "featured", "publication", "nps",
+    "blog", "cover-image", "tips", "hero", "portfolio"
+  ]
+}

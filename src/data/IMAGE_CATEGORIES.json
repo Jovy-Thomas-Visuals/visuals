@@ -1,0 +1,130 @@
+{
+  "categories": {
+    "mentions": {
+      "nps_awards": {
+        "description": "NPS Highly Commended Awards",
+        "images": [
+          "nps-award-sept-2017.jpg",
+          "nps-award-aug-2017-1.jpg",
+          "nps-award-aug-2017-2.jpg",
+          "nps-award-aug-2017-3.jpg"
+        ]
+      },
+      "affinity_photo": {
+        "description": "Featured in Affinity Photo for iPad",
+        "images": ["affinity-photo-feature.jpg"]
+      },
+      "dslr_official": {
+        "description": "DSLR Official Instagram Daily Feature",
+        "images": ["dslr-official-sept-2016.jpg"]
+      },
+      "jessica_drossin": {
+        "description": "Featured on Jessica Drossin's Site",
+        "images": ["jessica-drossin-evergreen-feature.jpg"]
+      },
+      "photo_of_day": {
+        "description": "Photo of the Day - October 5, 2016",
+        "images": ["photo-of-day-oct-2016.jpg"]
+      },
+      "magic_of_childhood": {
+        "description": "Featured by @MagicofChildhood",
+        "images": ["magic-of-childhood-feature.jpg"]
+      },
+      "shubh_yatra": {
+        "description": "Air India's Inflight Magazine Feature",
+        "images": ["shubh-yatra-waterfall-feature.jpg"]
+      },
+      "media_coverage": {
+        "description": "Newspaper articles and media coverage",
+        "images": [
+          "media-newspaper-article-001.jpg",
+          "media-newspaper-article-002.jpg",
+          "media-newspaper-article-003.jpg"
+        ]
+      },
+      "reviews_google": {
+        "description": "Google Review Screenshots",
+        "images": [
+          "google-review-001.jpg",
+          "google-review-002.jpg",
+          "google-review-003.jpg",
+          "google-review-004.jpg"
+        ]
+      },
+      "reviews_whatsapp": {
+        "description": "WhatsApp Message Testimonials",
+        "images": [
+          "whatsapp-review-001.jpg",
+          "whatsapp-review-002.jpg",
+          "whatsapp-review-003.jpg"
+        ]
+      },
+      "iapcp_article": {
+        "description": "IAPCP Article - Whimsical Portraits",
+        "images": [
+          "iapcp-article-image-001.jpg",
+          "iapcp-article-image-002.jpg",
+          "iapcp-article-image-003.jpg",
+          "iapcp-article-image-004.jpg"
+        ]
+      }
+    },
+    "blog_posts": {
+      "blog-post-1": {
+        "title": "Tips for Preparing Your Child for a Photo Session",
+        "coverImage": "blog-tips-child-session.jpg",
+        "sectionImages": [
+          "blog-timing-tips.jpg",
+          "blog-clothing-tips.jpg",
+          "blog-comfort-items.jpg"
+        ]
+      },
+      "blog-post-2": {
+        "title": "The Magic of Golden Hour Photography",
+        "coverImage": "blog-golden-hour.jpg",
+        "sectionImages": [
+          "blog-golden-hour-example.jpg",
+          "blog-planning-session.jpg",
+          "blog-location-tips.jpg"
+        ]
+      },
+      "blog-post-3": {
+        "title": "Behind the Scenes: Creating Fine Art Portraits",
+        "coverImage": "blog-fine-art-bts.jpg",
+        "sectionImages": [
+          "blog-concept-planning.jpg",
+          "blog-shooting-process.jpg",
+          "blog-editing-process.jpg"
+        ]
+      },
+      "blog-post-4": {
+        "title": "Why Outdoor Photography Sessions Create Natural, Timeless Portraits",
+        "coverImage": "blog-outdoor-benefits.jpg",
+        "sectionImages": [
+          "blog-natural-light.jpg",
+          "blog-movement-freedom.jpg",
+          "blog-natural-backdrops.jpg"
+        ]
+      },
+      "blog-post-5": {
+        "title": "Maternity Photography: Celebrating the Beauty of Motherhood",
+        "coverImage": "blog-maternity-beauty.jpg",
+        "sectionImages": [
+          "blog-maternity-timing.jpg",
+          "blog-maternity-styling.jpg",
+          "blog-maternity-family.jpg"
+        ]
+      }
+    }
+  },
+  "notes": {
+    "folder_structure": "All images should be organized in /images/[section]/ folders",
+    "naming_convention": "Use descriptive, lowercase names with hyphens (e.g., newborn-emma-001.jpg)",
+    "metadata": "All images must be registered in /data/images.json with proper tags and sections",
+    "aspect_ratios": {
+      "square": "1:1 (e.g., 1000x1000px)",
+      "portrait": "Vertical (e.g., 800x1200px)",
+      "landscape": "Horizontal (e.g., 1600x900px)"
+    }
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "images": [
+    {
+      "id": "img-001",
+      "filename": "home_001.png",
+      "title": "Family Portrait Session",
+      "description": "Beautiful family portrait captured in natural light",
+      "section": "HOME",
+      "tags": ["family", "outdoor", "natural-light", "portrait"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "landscape"
+    },
+    {
+      "id": "img-002",
+      "filename": "home_002.png",
+      "title": "Newborn Photography",
+      "description": "Peaceful newborn portrait with soft lighting",
+      "section": "HOME",
+      "tags": ["newborn", "baby", "studio", "portrait"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "portrait"
+    },
+    {
+      "id": "img-003",
+      "filename": "home_003.png",
+      "title": "Kids Outdoor Session",
+      "description": "Children playing outdoors in golden hour light",
+      "section": "HOME",
+      "tags": ["kids", "outdoor", "golden-hour", "candid"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "landscape"
+    },
+    {
+      "id": "img-004",
+      "filename": "home_004.png",
+      "title": "Maternity Portrait",
+      "description": "Elegant maternity session with flowing dress",
+      "section": "HOME",
+      "tags": ["maternity", "outdoor", "portrait", "golden-hour"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "portrait"
+    },
+    {
+      "id": "img-005",
+      "filename": "home_005.png",
+      "title": "Family Milestone",
+      "description": "Celebrating family milestones with beautiful portraits",
+      "section": "HOME",
+      "tags": ["family", "milestone", "portrait", "outdoor"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "square"
+    },
+    {
+      "id": "img-006",
+      "filename": "home_006.png",
+      "title": "Baby First Year",
+      "description": "Capturing precious moments of baby's first year",
+      "section": "HOME",
+      "tags": ["baby", "milestone", "portrait", "studio"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "portrait"
+    },
+    {
+      "id": "img-007",
+      "filename": "home_007.png",
+      "title": "Children's Candid Moments",
+      "description": "Authentic candid photography of children",
+      "section": "HOME",
+      "tags": ["kids", "candid", "outdoor", "natural-light"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "landscape"
+    },
+    {
+      "id": "img-008",
+      "filename": "home_008.jpg",
+      "title": "Fine Art Portrait",
+      "description": "Creative fine art portrait session",
+      "section": "HOME",
+      "tags": ["fine-art", "creative", "portrait", "studio"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "square"
+    },
+    {
+      "id": "img-009",
+      "filename": "home_009.png",
+      "title": "Outdoor Family Session",
+      "description": "Family portraits in beautiful outdoor settings",
+      "section": "HOME",
+      "tags": ["family", "outdoor", "natural-light", "portrait"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "landscape"
+    },
+    {
+      "id": "img-010",
+      "filename": "home_010.jpg",
+      "title": "Newborn Studio Session",
+      "description": "Professional newborn photography in studio",
+      "section": "HOME",
+      "tags": ["newborn", "studio", "portrait", "professional"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "portrait"
+    },
+    {
+      "id": "img-011",
+      "filename": "home_011.png",
+      "title": "Kids Adventure Photography",
+      "description": "Children captured during outdoor adventures",
+      "section": "HOME",
+      "tags": ["kids", "outdoor", "adventure", "candid"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "landscape"
+    },
+    {
+      "id": "img-012",
+      "filename": "home_012.jpg",
+      "title": "Maternity Golden Hour",
+      "description": "Stunning maternity portraits in golden hour light",
+      "section": "HOME",
+      "tags": ["maternity", "golden-hour", "outdoor", "portrait"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "portrait"
+    },
+    {
+      "id": "img-013",
+      "filename": "home_013.jpg",
+      "title": "Family Group Portrait",
+      "description": "Large family group photography session",
+      "section": "HOME",
+      "tags": ["family", "group", "portrait", "outdoor"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "landscape"
+    },
+    {
+      "id": "img-014",
+      "filename": "home_014.jpg",
+      "title": "Baby Milestone Photography",
+      "description": "Documenting important baby milestones",
+      "section": "HOME",
+      "tags": ["baby", "milestone", "portrait", "studio"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "square"
+    },
+    {
+      "id": "img-015",
+      "filename": "home_015.jpg",
+      "title": "Children's Portrait Session",
+      "description": "Professional children's portrait photography",
+      "section": "HOME",
+      "tags": ["kids", "portrait", "studio", "professional"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "portrait"
+    },
+    {
+      "id": "img-016",
+      "filename": "home_016.jpg",
+      "title": "Creative Family Photography",
+      "description": "Creative and artistic family portrait session",
+      "section": "HOME",
+      "tags": ["family", "creative", "fine-art", "portrait"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "landscape"
+    },
+    {
+      "id": "img-017",
+      "filename": "home_017.jpg",
+      "title": "Newborn Lifestyle Photography",
+      "description": "Natural newborn lifestyle photography",
+      "section": "HOME",
+      "tags": ["newborn", "lifestyle", "natural-light", "candid"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "portrait"
+    },
+    {
+      "id": "img-018",
+      "filename": "home_018.jpg",
+      "title": "Outdoor Kids Session",
+      "description": "Fun outdoor photography session with children",
+      "section": "HOME",
+      "tags": ["kids", "outdoor", "fun", "candid"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "square"
+    },
+    {
+      "id": "img-019",
+      "filename": "home_019.jpg",
+      "title": "Maternity Portrait Art",
+      "description": "Artistic maternity portrait photography",
+      "section": "HOME",
+      "tags": ["maternity", "artistic", "portrait", "creative"],
+      "featured": true,
+      "dateAdded": "2024-12-17",
+      "aspectRatio": "landscape"
+    }
+  ],
+  "sections": {
+    "HOME": {
+      "name": "Home Gallery",
+      "description": "Featured images for the home page packed gallery"
+    },
+    "KIDS": {
+      "name": "Kids",
+      "description": "Children and kids portraits"
+    },
+    "MATERNITY": {
+      "name": "Maternity",
+      "description": "Maternity and pregnancy photography"
+    },
+    "FAMILY": {
+      "name": "Family",
+      "description": "Family portraits and group photos"
+    },
+    "FINE ART": {
+      "name": "Fine Art",
+      "description": "Creative and fine art photography"
+    },
+    "MEN'S PORTRAITS": {
+      "name": "Men's Portraits",
+      "description": "Professional men's portrait photography"
+    },
+    "SMALL EVENT": {
+      "name": "Small Event Photography",
+      "description": "Small events, parties, and celebrations"
+    },
+    "MENTIONS": {
+      "name": "Mentions & Awards",
+      "description": "Award-winning images and featured work"
+    },
+    "BLOG": {
+      "name": "Blog Images",
+      "description": "Images for blog posts and articles"
+    }
+  },
+  "tags": {
+    "newborn": "Newborn photography",
+    "baby": "Baby photography",
+    "kids": "Kids photography",
+    "family": "Family photography",
+    "maternity": "Maternity photography",
+    "portrait": "Portrait photography",
+    "outdoor": "Outdoor photography",
+    "studio": "Studio photography",
+    "natural-light": "Natural light photography",
+    "golden-hour": "Golden hour photography",
+    "candid": "Candid photography",
+    "fine-art": "Fine art photography",
+    "creative": "Creative photography",
+    "composite": "Composite photography",
+    "professional": "Professional photography",
+    "milestone": "Milestone photography",
+    "siblings": "Siblings photography",
+    "event": "Event photography",
+    "birthday": "Birthday photography",
+    "celebration": "Celebration photography",
+    "party": "Party photography",
+    "award": "Award-winning photography",
+    "featured": "Featured photography",
+    "publication": "Published photography",
+    "nps": "NPS featured",
+    "blog": "Blog images",
+    "cover-image": "Cover image",
+    "tips": "Photography tips",
+    "hero": "Hero image",
+    "portfolio": "Portfolio image"
+  }
+}
