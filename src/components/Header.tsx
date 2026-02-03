@@ -14,8 +14,6 @@ export function Header({ onNavigate, currentPage }: HeaderProps) {
     "ABOUT ME",
     "MENTIONS",
     "CONTACT",
-    "FAQs",
-    "Blog",
   ];
 
   return (
