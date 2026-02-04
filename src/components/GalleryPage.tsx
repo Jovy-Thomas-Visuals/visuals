@@ -30,16 +30,16 @@ export function GalleryPage() {
       galleryCategories.find((cat) => cat.section === selectedSection)?.title || selectedSection;
 
     return (
-      <section className="py-12 px-4">
-        <div className="mb-8 text-center">
+      <section className="py-8 md:py-12 px-2 md:px-4">
+        <div className="mb-6 md:mb-8 text-center">
           <button
             onClick={handleBackToOverview}
-            className="mb-4 px-4 py-2 text-sm text-[#8b7355] border border-[#8b7355] bg-[#f5f2ec] hover:bg-[#e8e4d8] transition-colors"
+            className="mb-4 px-3 md:px-4 py-2 text-xs md:text-sm text-[#8b7355] border border-[#8b7355] bg-[#f5f2ec] hover:bg-[#e8e4d8] transition-colors"
             style={{ fontFamily: "'Courier New', monospace" }}
           >
             ← Back to Gallery Overview
           </button>
-          <h2 className="text-4xl text-[#8b7355]">{sectionTitle}</h2>
+          <h2 className="text-2xl md:text-4xl text-[#8b7355]">{sectionTitle}</h2>
         </div>
 
         <div className="max-w-7xl mx-auto">
@@ -61,13 +61,13 @@ export function GalleryPage() {
 
   // Show thumbnail overview
   return (
-    <section className="py-12 px-4">
-      <div className="mb-12 text-center">
-        <h2 className="text-5xl text-[#8b7355]">GALLERY</h2>
+    <section className="py-8 md:py-12 px-4">
+      <div className="mb-8 md:mb-12 text-center">
+        <h2 className="text-3xl md:text-5xl text-[#8b7355]">GALLERY</h2>
       </div>
 
       <div className="max-w-5xl mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-x-16 gap-y-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 md:gap-x-16 gap-y-8 md:gap-y-12">
           {galleryCategories.map((category) => {
             return (
               <div key={category.id} className="flex flex-col items-center">
