@@ -79,7 +79,8 @@ export function SEO({ title, description, keywords }: SEOProps) {
       "@context": "https://schema.org",
       "@type": "Photographer",
       name: "Jovy Thomas Visuals",
-      image: "https://static.wixstatic.com/media/41d000_5444db7dae645ab535e3309351fa836c.png",
+      image:
+        "https://static.wixstatic.com/media/41d000_5444db7dae645ab535e3309351fa836c.png",
       description:
         "Award-winning professional family, portrait, maternity, kids, and event photographer serving Nashville, Hendersonville, Gallatin, and Middle Tennessee. Specializing in outdoor natural light photography, fine art portraits, and fashion portfolios.",
       address: {
@@ -239,7 +240,7 @@ export function SEO({ title, description, keywords }: SEOProps) {
             },
             priceSpecification: {
               "@type": "PriceSpecification",
-              price: "140",
+              price: "150",
               priceCurrency: "USD",
               unitText: "per hour",
             },

@@ -15,7 +15,9 @@ import { SEO } from "./components/SEO";
 
 export default function App() {
   const [currentPage, setCurrentPage] = useState("HOME");
-  const [selectedBlogPostId, setSelectedBlogPostId] = useState<string | null>(null);
+  const [selectedBlogPostId, setSelectedBlogPostId] = useState<string | null>(
+    null,
+  );
 
   const handleSelectBlogPost = (postId: string) => {
     setSelectedBlogPostId(postId);
@@ -73,7 +75,7 @@ export default function App() {
           title:
             "Small Event Photography | Jovy Thomas Visuals - Nashville, Hendersonville, Gallatin, TN",
           description:
-            "Professional small event photography in Nashville, Hendersonville, and Gallatin, Tennessee. Capture birthdays, celebrations, baby showers, and intimate gatherings. $140/hour with 50+ professionally edited images.",
+            "Professional small event photography in Nashville, Hendersonville, and Gallatin, Tennessee. Capture birthdays, celebrations, baby showers, and intimate gatherings. $150/hour with 50+ professionally edited images.",
           keywords: [
             // Location-based event photography
             "event photographer Nashville",
@@ -197,7 +199,8 @@ export default function App() {
         };
       case "FAQs":
         return {
-          title: "Photography FAQs | Jovy Thomas Visuals - Nashville, Hendersonville, Gallatin, TN",
+          title:
+            "Photography FAQs | Jovy Thomas Visuals - Nashville, Hendersonville, Gallatin, TN",
           description:
             "Find answers to frequently asked questions about photography sessions, packages, pricing, and services. Outdoor natural light portraits in Nashville, Hendersonville, Gallatin, and Middle Tennessee.",
           keywords: [
@@ -223,7 +226,8 @@ export default function App() {
         };
       case "MENTIONS":
         return {
-          title: "Awards & Features | Jovy Thomas Visuals - Award-Winning Tennessee Photographer",
+          title:
+            "Awards & Features | Jovy Thomas Visuals - Award-Winning Tennessee Photographer",
           description:
             "Awards and features including NPS Highly Commended, Portrait Masters Bronze Award, GLOW Finalist, DSLR Official, Affinity Photo, Air India Magazine, and more. Award-winning photographer serving Nashville, Hendersonville, and Gallatin, Tennessee.",
           keywords: [
@@ -270,7 +274,8 @@ export default function App() {
           };
         }
         return {
-          title: "Photography Blog | Jovy Thomas Visuals - Tips & Stories from Nashville, TN",
+          title:
+            "Photography Blog | Jovy Thomas Visuals - Tips & Stories from Nashville, TN",
           description:
             "Explore photography tips, behind-the-scenes stories, and creative inspiration. Learn from an award-winning photographer serving Nashville, Hendersonville, Gallatin, and Middle Tennessee.",
           keywords: [
@@ -383,7 +388,9 @@ export default function App() {
         return <Mentions />;
       case "Blog":
         if (selectedBlogPostId) {
-          return <BlogPost postId={selectedBlogPostId} onBack={handleBackToBlog} />;
+          return (
+            <BlogPost postId={selectedBlogPostId} onBack={handleBackToBlog} />
+          );
         }
         return <Blog onSelectPost={handleSelectBlogPost} />;
       case "HOME":
@@ -406,7 +413,11 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-[#e8e4d8]">
-      <SEO title={seoData.title} description={seoData.description} keywords={seoData.keywords} />
+      <SEO
+        title={seoData.title}
+        description={seoData.description}
+        keywords={seoData.keywords}
+      />
       <Header onNavigate={handleNavigate} currentPage={currentPage} />
       {renderPage()}
     </div>
