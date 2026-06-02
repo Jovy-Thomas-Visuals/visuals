@@ -105,6 +105,11 @@ export function SmallEventPhotography() {
               payment is kindly requested before the transfer of any digital
               images.
             </p>
+
+            <p className="text-[#6b6b6b] text-sm italic mt-4">
+              Events outside Hendersonville and Gallatin may be subject to a
+              travel and mileage fees.
+            </p>
           </div>
 
           {/* Additional Polish Section */}
