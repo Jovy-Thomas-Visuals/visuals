@@ -47,7 +47,7 @@ export function SmallEventPhotography() {
             <h3 className="text-2xl text-[#8b7355] mb-6">What You Receive</h3>
 
             <p className="text-[#6b6b6b] mb-4">
-              For <span className="text-[#8b7355]">$140 per hour</span>, you get
+              For <span className="text-[#8b7355]">$150 per hour</span>, you get
               complete, thoughtful coverage of your event.
             </p>
             <p className="text-[#6b6b6b] mb-6">
