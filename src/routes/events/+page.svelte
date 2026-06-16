@@ -133,7 +133,7 @@
         <footer class="mt-16 text-center text-xs text-brand">
             <p>
                 All photographs in this site are copyright of Jovy Thomas - ©
-                Jovy Thomas Visuals 2025. All Rights Reserved
+                Jovy Thomas Visuals 2026. All Rights Reserved
             </p>
         </footer>
     </div>
